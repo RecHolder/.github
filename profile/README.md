@@ -7,6 +7,7 @@
 - **Automated NFT Plaques**: Achievements are automatically tracked and verified, with NFTs issued as plaques for recognition.
 - **Decentralized and Transparent**: Built on blockchain technology to ensure transparency and immutability.
 - **Metaverse and DeFi Integration**: RecHolder seamlessly integrates with metaverse platforms and DeFi protocols to recognize and reward users for significant milestones.
+- **NFT Marketplace**: NFTs holders can sell their NFTs on the platform. 
 
 ## Getting Started
 
